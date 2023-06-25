@@ -33,7 +33,7 @@ NOTE: UNDO/REDO are not tested on MOVE_LEFT_CHAR and MOVE_RIGHT_CHAR
 
 EXECUTE command runs the UPDATE commands stored in a queue.
 
-##Implementation
+## Implementation
 
 The start point is list: structure that defines the nodes and structures with pointers to the santinel, the current position and the last position // band is still infinite
 Description of files: 
