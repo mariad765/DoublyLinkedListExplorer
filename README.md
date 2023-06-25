@@ -51,5 +51,4 @@ Update.h: ~the name of the commands UPDATE commands will be stored in a queue an
 
 The Makefile includes the clean, build and run rules. It also includes a test with Valgrind to check for any memory leaks.
 
-THE CODE PASSES THE LOCAL TESTS WITH 100/100 AND 20/20 (for valgrind verification)
 
