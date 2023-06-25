@@ -49,7 +49,7 @@ Update.h: ~the name of the commands UPDATE commands will be stored in a queue an
           ~every time UNDO is executed (on spot / no need to call EXECUTE), the pointer that was on top of the stack will be added in the stack for REDO
           ~ this file also includes the declaration offunction to intiate,cretae, pop , push, free, on the stack, but also the opertions persomed on queue
 
-#Additional
+## Additional
 
 The Makefile includes the clean, build and run rules. It also includes a test with Valgrind to check for any memory leaks.
 
